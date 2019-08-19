@@ -8,7 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "id": 1, "username": "namtq97", "password": "2913999a", "name": "Tran Quoc Nam" },
+    { "id": 2, "username": "viettq97", "password": "2913999b", "name": "Tran Quoc Viet" }
+  ],
 }
